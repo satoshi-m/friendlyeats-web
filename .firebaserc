@@ -1,6 +1,7 @@
 {
   "projects": {
-    "stg": "friendlyeatsbynextjs"
+    "stg": "friendlyeatsbynextjs",
+    "default": "friendlyeatsbynextjs"
   },
   "targets": {},
   "etags": {}
