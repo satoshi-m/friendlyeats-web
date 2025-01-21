@@ -1,4 +1,7 @@
-22:02:51.517 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
-22:02:51.609 [main] INFO com.firebase.server.forge.App$ - Listening at 127.0.0.1:9001
-22:04:40.141 [Thread-0] INFO com.firebase.server.forge.App$ - Attempting graceful shutdown.
-22:04:40.150 [Thread-0] INFO com.firebase.server.forge.App$ - Graceful shutdown complete.
+23:03:12.933 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+23:03:13.045 [main] INFO com.firebase.server.forge.App$ - Listening at 127.0.0.1:9001
+23:04:03.167 [NamespaceSystem-akka.actor.default-dispatcher-7] INFO com.firebase.core.namespace.NamespaceActor - friendlyeatsbynextjs successfully activated FBKV (SurveyIdle(0)) wait: 83ms, init: 0ms
+23:11:27.525 [Thread-0] INFO com.firebase.server.forge.App$ - Attempting graceful shutdown.
+23:11:27.543 [NamespaceSystem-akka.actor.default-dispatcher-15] INFO com.firebase.core.namespace.Terminator$Terminator - 1 actors left to terminate: friendlyeatsbynextjs
+23:11:27.551 [NamespaceSystem-akka.actor.default-dispatcher-16] INFO com.firebase.core.namespace.NamespaceActor - stopped namespace actor for friendlyeatsbynextjs
+23:11:27.555 [Thread-0] INFO com.firebase.server.forge.App$ - Graceful shutdown complete.
